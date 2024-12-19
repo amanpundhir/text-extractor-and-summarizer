@@ -1,4 +1,4 @@
-# text-extractor-and-summarizer
+# Text-Extractor-and-Summarizer
 A web application built with Streamlit that extracts text from images using Tesseract OCR and generates concise summaries using the TextRank algorithm.
 
 # Features
